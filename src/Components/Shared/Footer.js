@@ -90,7 +90,7 @@ const Footer = () => {
       </div>
 
       <h3 className="text-[#A4A4A4] text-[14px] mt-[29px] lg:mt-[69px] border-t border-[#F4F4F4] pt-[15px] pb-6 text-center max-w-[1200px] mx-auto">
-        Copyright © 2023 safayet
+        Copyright © 2024 safayet| All Right Reserved.
       </h3>
     </div>
   );
